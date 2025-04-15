@@ -51,8 +51,8 @@ I write about data engineering, career growth, and side projects.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-yuzhencode.vercel.app/api?username=yuzhencode&show_icons=true&theme=tokyonight" alt="stats" width="48%" />
-  <img src="https://github-readme-stats-yuzhencode.vercel.app/api/top-langs/?username=yuzhencode&layout=compact&theme=tokyonight" alt="langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuzhencode&show_icons=true&theme=tokyonight" alt="stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhencode&layout=compact&theme=tokyonight" alt="langs" width="36.5%" />
 </p>
 
 ---
