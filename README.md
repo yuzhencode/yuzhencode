@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Yuzhen! 
 
-<!--
-**yuzhencode/yuzhencode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data engineer who loves building pipelines, automating workflows, and solving data problems with a touch of elegance.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- 💻 Python, SQL
+- 🌬 Apache Airflow, DBT, Snowflake
+- ☁️ Cloud: AWS, GCP
+- 📊 Data: ETL, Data Warehousing, Data Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧸 Fun Facts
+- 🐼 Huge panda lover (the animal, not just the Python library 😉)
+- 🏋️ Into fitness & strength training
+- 🍄 Mushroom foraging enthusiast — nothing like hunting chanterelles in the wild!
+
+---
+
+### 🌐 Find Me Online
+[![Website](https://img.shields.io/badge/Website-yuzhen.website-blue?style=flat-square&logo=Google-Chrome&logoColor=white)](https://yuzhen.website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/yuzhen-li-a98675202/)
+
+---
+
+### 📊 GitHub Stats
+
+![Yuzhen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuzhencode&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzhencode&layout=compact&theme=tokyonight)
+
+---
+
+_Thanks for stopping by! 👋_
